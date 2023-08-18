@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PabsUnzip": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\John\\scraper.zip"
+    }
+  }
+}
